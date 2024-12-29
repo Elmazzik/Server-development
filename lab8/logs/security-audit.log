@@ -1,0 +1,3 @@
+2024-12-26T19:10:34.212Z [INFO]: Successful login for email: john.doe@example.com from IP: ::1
+2024-12-26T19:13:25.419Z [WARN]: Failed login attempt for email: john.doe@example.com from IP: ::1
+2024-12-26T19:13:33.323Z [INFO]: Successful login for email: john.doe@example.com from IP: ::1

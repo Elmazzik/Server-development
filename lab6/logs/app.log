@@ -1,0 +1,20 @@
+2024-12-26T18:31:44.122Z [INFO]: Server running on port 3000
+2024-12-26T18:34:46.439Z [INFO]: Server running on port 3000
+2024-12-26T18:34:55.800Z [INFO]: User deleted: 5
+2024-12-26T18:35:04.144Z [INFO]: User updated: 4
+2024-12-26T18:35:10.679Z [INFO]: Fetched all users
+2024-12-26T18:47:24.135Z [INFO]: Server running on port 3000
+2024-12-26T18:57:25.576Z [INFO]: User created: john.doe@example.com
+2024-12-26T18:58:54.730Z [INFO]: Server running on port 3000
+2024-12-26T18:59:49.008Z [INFO]: Server running on port 3000
+2024-12-26T19:07:30.311Z [INFO]: User created: john.doe@example.com
+2024-12-26T19:10:28.306Z [INFO]: Server running on port 3000
+2024-12-26T19:11:42.436Z [INFO]: Fetched all users
+2024-12-26T19:51:45.316Z [INFO]: Server running on port 3000
+2024-12-26T20:25:56.452Z [INFO]: Server running on port 3000
+2024-12-27T08:01:36.594Z [INFO]: Server running on port 3002
+2024-12-27T08:15:41.509Z [INFO]: Server running on port 3002
+2024-12-27T08:17:48.344Z [INFO]: Server running on port 3002
+2024-12-27T08:22:33.676Z [INFO]: Server running on port 3002
+2024-12-27T08:25:54.868Z [INFO]: Fetched all users
+2024-12-27T08:50:17.683Z [INFO]: Fetched all users
